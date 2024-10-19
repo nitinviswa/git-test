@@ -30,6 +30,8 @@ namespace WorkFlowStages.Controllers
                 var envelopeSummary = _docuSignService.CreateEnvelopeAsync(request.SignerEmail, request.SignerName, request.DocumentName);
                 return Ok(envelopeSummary);
                 //For test second branch..
+                //        public IActionResult SendEnvelope([FromBody] ESignRequest request)
+
             }
             catch (Exception ex)
             {
@@ -41,6 +43,8 @@ namespace WorkFlowStages.Controllers
         public IActionResult GetToken()
         {
             //for test second branch...
+            //        public IActionResult SendEnvelope([FromBody] ESignRequest request)
+
             string token = string.Empty;
             var apiClient = new DocuSignClient("https://demo.docusign.net/restapi");
             var rsaKey = System.IO.File.ReadAllBytes("./private.key");
