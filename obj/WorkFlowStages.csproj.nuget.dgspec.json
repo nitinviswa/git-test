@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a\\source\\repos\\WorkFlowStages\\WorkFlowStages\\WorkFlowStages.csproj": {}
+    "D:\\workspace\\Office\\New folder\\WorkFlowStages\\WorkFlowStages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a\\source\\repos\\WorkFlowStages\\WorkFlowStages\\WorkFlowStages.csproj": {
+    "D:\\workspace\\Office\\New folder\\WorkFlowStages\\WorkFlowStages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a\\source\\repos\\WorkFlowStages\\WorkFlowStages\\WorkFlowStages.csproj",
+        "projectUniqueName": "D:\\workspace\\Office\\New folder\\WorkFlowStages\\WorkFlowStages.csproj",
         "projectName": "WorkFlowStages",
-        "projectPath": "C:\\Users\\a\\source\\repos\\WorkFlowStages\\WorkFlowStages\\WorkFlowStages.csproj",
+        "projectPath": "D:\\workspace\\Office\\New folder\\WorkFlowStages\\WorkFlowStages.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a\\source\\repos\\WorkFlowStages\\WorkFlowStages\\obj\\",
+        "outputPath": "D:\\workspace\\Office\\New folder\\WorkFlowStages\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
