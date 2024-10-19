@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IR+SKMIi4as=",
+  "dgSpecHash": "mEE5hoh0HWQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a\\source\\repos\\WorkFlowStages\\WorkFlowStages\\WorkFlowStages.csproj",
+  "projectFilePath": "D:\\workspace\\Office\\New folder\\WorkFlowStages\\WorkFlowStages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\docusign.core\\1.1.0.2\\docusign.core.1.1.0.2.nupkg.sha512",
