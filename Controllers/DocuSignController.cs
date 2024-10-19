@@ -31,7 +31,11 @@ namespace WorkFlowStages.Controllers
                 return Ok(envelopeSummary);
                 //For test second branch..
                 ///                 var envelopeSummary = _docuSignService.CreateEnvelopeAsync(request.SignerEmail, request.SignerName, request.DocumentName);
+<<<<<<< HEAD
+                ///                 var envelopeSummary = _docuSignService.CreateEnvelopeAsync(request.SignerEmail, request.SignerName, request.DocumentName);
+=======
                 //        public DocuSignController(DocuSignService docuSignService, IConfiguration configuration)
+>>>>>>> 31922c4c3efe24f435090c7924dbc739201e110a
 
             }
             catch (Exception ex)
@@ -45,7 +49,11 @@ namespace WorkFlowStages.Controllers
         {
             //for test second branch...
             ///                 var envelopeSummary = _docuSignService.CreateEnvelopeAsync(request.SignerEmail, request.SignerName, request.DocumentName);
+<<<<<<< HEAD
+            ///                 var envelopeSummary = _docuSignService.CreateEnvelopeAsync(request.SignerEmail, request.SignerName, request.DocumentName);
+=======
                             //        public DocuSignController(DocuSignService docuSignService, IConfiguration configuration)
+>>>>>>> 31922c4c3efe24f435090c7924dbc739201e110a
 
             string token = string.Empty;
             var apiClient = new DocuSignClient("https://demo.docusign.net/restapi");
